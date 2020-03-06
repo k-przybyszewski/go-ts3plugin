@@ -1,8 +1,4 @@
 github.com/golang/protobuf v1.2.0/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
-github.com/icedream/go-ts3plugin v0.0.0-20190305193706-a23284de0a3c h1:nn4GdbsPJYgyyVIHURYZlniYGoyHIrOKi0VcnHLfLgY=
-github.com/icedream/go-ts3plugin v0.0.0-20190305193706-a23284de0a3c/go.mod h1:50rS2hSO8A8r1u2q4oNtRc8c68SbJwST4BbaRvEfS60=
-github.com/k-przybyszewski/go-ts3plugin v0.0.0-20190305193706-a23284de0a3c h1:nn4GdbsPJYgyyVIHURYZlniYGoyHIrOKi0VcnHLfLgY=
-github.com/k-przybyszewski/go-ts3plugin v0.0.0-20190305193706-a23284de0a3c/go.mod h1:50rS2hSO8A8r1u2q4oNtRc8c68SbJwST4BbaRvEfS60=
 golang.org/x/net v0.0.0-20180724234803-3673e40ba225/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
 golang.org/x/net v0.0.0-20190213061140-3a22650c66bd h1:HuTn7WObtcDo9uEEU7rEqL0jYthdXAmZ6PP+meazmaU=
 golang.org/x/net v0.0.0-20190213061140-3a22650c66bd/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
@@ -13,3 +9,4 @@ golang.org/x/tools v0.0.0-20190221204921-83362c3779f5/go.mod h1:9Yl7xja0Znq3iFh3
 google.golang.org/appengine v1.4.0/go.mod h1:xpcJRLb0r/rnEns0DIKYYv+WjYCduHsrkT7/EB5XEv4=
 mvdan.cc/xurls v1.1.0 h1:kj0j2lonKseISJCiq1Tfk+iTv65dDGCl0rTbanXJGGc=
 mvdan.cc/xurls/v2 v2.1.0 h1:KaMb5GLhlcSX+e+qhbRJODnUUBvlw01jt4yrjFIHAuA=
+mvdan.cc/xurls/v2 v2.1.0/go.mod h1:5GrSd9rOnKOpZaji1OZLYL/yeAAtGDlo/cFe+8K5n8E=
